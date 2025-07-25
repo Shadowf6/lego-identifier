@@ -1,7 +1,0 @@
-Do before training:
-
-./docker/run.sh
-cd into classification
-nano train.py
-comment out that stuff
-python3 train.py --model-dir=models/legosv2 data/legosv2 --resume models/legosv2/checkpoint.pth.tar
