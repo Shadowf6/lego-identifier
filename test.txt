@@ -1,9 +1,0 @@
-Ideas:
-
-Traffic AI:
-Takes video of footage of a 4-way intersection. Has memory and is constantly updating. Model will output what is to be done next.
-
-Cat Identifier:
-Takes image(s) of a cat. Model will output what breed of cat it is.
-
-Robotics
