@@ -25,5 +25,5 @@ You will need: Jetson Nano
 1. Install the <a href="https://github.com/dusty-nv/jetson-inference">Jetson Inference library</a> onto your Nano. The library also comes with torch, imagenet, and a resnet-18 model, dependencies the project will be using.
 2. SSH into the Nano.
 3. Clone the project repository onto the Nano using the command `git clone https://github.com/Shadowf6/lego-identifier`.
-4. Pick a random number between 1 and 60 and type the command `FILE=[num].png` (or upload your own image onto the nano and add the file name).
-5. Run the command `python3 run.py test/$FILE`.
+4. Pick a random number between 1 and 40 and type the command `FILE=[num].png` (or upload your own image onto the nano and add the file name).
+5. Run the command `python3 lego-identifier/run.py lego-identifier/test/$FILE`.
