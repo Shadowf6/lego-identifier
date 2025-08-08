@@ -27,3 +27,7 @@ You will need: Jetson Nano
 3. Clone the project repository onto the Nano using the command `git clone https://github.com/Shadowf6/lego-identifier`.
 4. Pick a random number between 1 and 40 and type the command `FILE=[num].png` (or upload your own image onto the nano and add the file name).
 5. Run the command `python3 lego-identifier/run.py lego-identifier/test/$FILE`.
+
+
+## Demonstration Video
+https://drive.google.com/file/d/17xI9XmXJd8ruQQuoiYAPPo2NY0Ur3p18/view?usp=sharing
